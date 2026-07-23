@@ -13,4 +13,4 @@ This is a small utility native Haiku program designed to manage your Person file
 
 ## Requirements
 
-Developed in 64-bit Haiku, nightly version. Not tested on Beta 5 or 32-bit Haiku.
+Developed in 64-bit Haiku, nightly version hrev59636. Not tested on Beta 5 or 32-bit Haiku.
