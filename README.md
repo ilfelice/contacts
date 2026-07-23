@@ -1,6 +1,6 @@
 # Contacts
 
-This is a small native utility program for the Haiku operating system designed to manage your Person file contacts in a single place (search, edit, delete, add, import). A vCard-to-Person files import feature is included. Forked from the Contacts feature of EmailViewsNeo.
+This is a small native utility program for the Haiku operating system designed to manage your Person contact file in a single place (search, edit, delete, add, import). A vCard-to-Person files import feature is included. Forked from the Contacts feature of EmailViewsNeo.
 
 ## Features
 
