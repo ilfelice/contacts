@@ -13,4 +13,13 @@ This is a small native utility program for the Haiku operating system designed t
 
 ## Requirements
 
-Developed in 64-bit Haiku, nightly version hrev59636. Not tested on Beta 5 or 32-bit Haiku.
+Developed and tested only in 64-bit Haiku, nightly version hrev59636. Not tested on Beta 5 or 32-bit Haiku.
+
+## License
+
+Distributed under the terms of the **MIT License**.
+
+Copyright © 2026 Il Felice.
+
+Created with the assistance of AI tools.
+
